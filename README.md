@@ -1,4 +1,1 @@
-tasks
-=====
-
-some tasks
+This directory contains the source code in form of a maven project to solve a happy cube puzzle. All the happy cube puzzles are directly read into the program as PuzzleCube classes. The approach of the problem has been explained briefly through an image file (happycube.png) placed within this folder. The central idea is decomposing the cube into edges and furthermore squares, matching edges based on polarities and furthermore following the rules of the unfolded form for a certain arrangement to be a valid one.  
